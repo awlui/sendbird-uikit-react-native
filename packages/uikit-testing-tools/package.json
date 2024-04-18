@@ -1,5 +1,5 @@
 {
-  "name": "@sendbird/uikit-testing-tools",
+  "name": "@awlui/uikit-testing-tools",
   "version": "3.5.1",
   "private": true,
   "description": "UIKit testing tools",
@@ -40,7 +40,7 @@
   },
   "devDependencies": {
     "@sendbird/chat": "^4.10.7",
-    "@sendbird/uikit-utils": "3.5.1",
+    "@awlui/uikit-utils": "3.5.1",
     "@types/jest": "^29.4.0",
     "@types/react": "*",
     "@types/react-native": "*",

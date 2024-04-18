@@ -1,5 +1,5 @@
 {
-  "name": "@sendbird/uikit-react-native-foundation",
+  "name": "@awlui/uikit-react-native-foundation",
   "version": "3.5.1",
   "description": "A foundational UI kit for building chat-enabled React Native apps.",
   "keywords": [
@@ -48,7 +48,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@sendbird/uikit-utils": "3.5.1"
+    "@awlui/uikit-utils": "3.5.1"
   },
   "devDependencies": {
     "@types/react": "*",
